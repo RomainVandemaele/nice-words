@@ -3,4 +3,9 @@ poney
 chien
 chat
 poulpe
+<<<<<<< HEAD
 coq
+=======
+pieuvre
+
+>>>>>>> fish
